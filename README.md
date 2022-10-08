@@ -7,7 +7,7 @@ events.
 
 -> HTML and CSS for Frontend.
 
--> PHP and MySQL for Backend.
+-> PHP and MySQL (DATABASE) for Backend.
 
 
 The main objective of College Event Management System is to automate the existing manual system by the help of computerized equipments and full-fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer period with easy accessing and manipulation of the same with added security. The required software and hardware are easily available and easy to work with.
