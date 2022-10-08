@@ -19,10 +19,20 @@ SCREENSHOTS
 
 ![HOMEPAGE](https://user-images.githubusercontent.com/114558761/194704211-2f0e5155-7470-467b-a252-61f3378aeb11.jpg)
 
+
+
 ![2](https://user-images.githubusercontent.com/114558761/194704227-7cbcba3e-5ceb-4c67-915d-3122470f3a49.jpg)
+
+
 
 ![1](https://user-images.githubusercontent.com/114558761/194704248-776d7d43-8c05-4109-841f-fa3e31483dc5.jpg)
 
+
+
 ![3](https://user-images.githubusercontent.com/114558761/194704262-cb01ab14-94ce-4ea6-859b-145437a41899.jpg)
 
+
+
 ![4](https://user-images.githubusercontent.com/114558761/194704279-d9205bef-511f-45be-aa87-6c57a097b829.jpg)
+
+
